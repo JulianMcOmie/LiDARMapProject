@@ -37,7 +37,7 @@ void setup()
 
     // Configure the LidarLite internal parameters so as to lend itself to
     // various modes of operation by altering 'configure' input integer to
-    // anything in the range of 0 to 5. See LIDARLite_v3HP.cpp for details.
+    // anything in the range of 0 to 5.
     myLidarLite.configure(0);
 } 
 
